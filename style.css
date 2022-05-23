@@ -1,0 +1,5 @@
+@font-face{ font-family: "Mont"; src: url("Montserrat.ttf");}
+body{background: #212630;}
+.header{background: url("images/stars.gif"); color:white; text-align: center; border: 2px; border-radius: 9px; font-family: "Mont"; height:80px; width: 250px; margin: auto;}
+.text{margin: auto; text-align: center; color:white; font-family: 'Roboto', sans-serif; width: 250px;}
+input{background:black;color:white;}
